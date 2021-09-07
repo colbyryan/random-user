@@ -1,0 +1,44 @@
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+  background-color: rgb(92, 190, 255);
+  margin: -10px;
+}
+h1 {
+  text-align: center;
+  padding: 25px;
+}
+button {
+  margin-left: 80px;
+  margin-top: 40px;
+  border-radius: 10px;
+  width: 170px;
+  height: 30px;
+  border: none;
+  background-color: rgb(92, 190, 255);
+}
+button:hover {
+  background-color: rgb(22, 162, 255);
+  cursor: pointer;
+}
+.user-section {
+  background-color: rgb(243, 243, 243);
+  width: 50%;
+}
+.user-section h3 {
+  font-size: 1.75em;
+}
+
+.user-section li {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.user-section img {
+  border-radius: 100px;
+}
+footer {
+  padding-top: 100px;
+  text-align: center;
+}
